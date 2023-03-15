@@ -1,0 +1,11 @@
+<svg width="501" height="537" viewBox="0 0 501 537" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="501" height="537" fill="#F5F5F5"/>
+<path id="Ellipse 1" d="M479.003 102.679C443.564 57.6052 394.604 25.0856 339.315 9.89766C284.026 -5.29031 225.323 -2.34601 171.832 18.298C118.34 38.942 72.8794 76.1974 42.1284 124.591C11.3774 172.984 -3.04255 229.964 0.987043 287.159C5.01663 344.354 27.2833 398.75 64.5158 442.353C101.748 485.957 151.984 516.47 207.841 529.41C263.699 542.35 322.234 537.035 374.848 514.245C427.461 491.455 471.378 452.392 500.147 402.794L268.324 268.324L479.003 102.679Z" fill="url(#pattern0)"/>
+<circle id="Ellipse 2" cx="267.5" cy="172.5" r="34.5" fill="#1A1818"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_1" transform="scale(0.015625)"/>
+</pattern>
+<image id="image0_0_1" data-name="Checker.png" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAONJREFUeF7t20EOhEAIRFG4/6F7DvEnYeFzryQIv6pBd2behOu9dPvsbog+k+NLgArQAqmJcw9iAAhSgZKB3IJkkAySQTJ4CiE+gA8oBeg0mH3Ai084P89HhqwEqIA209ICsQdjAeaZIgaAYKxBDMCAYy8fXwAIgiAIcoJpJEYGI4VjB3YrbC9gL2AvkCB43cM5PgZgAAZgQFnNZAhdGykQBEEQBEEQDBmgAm2glM/z+QUYisYUGoldO7kY32IEAzCg6RgIRgjFAsw+AgRBMNYgBmCAT2TCYfoPPz/HCqQCX1eBHzHnv7C7WhBSAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
